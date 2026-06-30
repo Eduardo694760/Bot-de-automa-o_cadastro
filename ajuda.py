@@ -1,0 +1,1 @@
+# Auxiliação para testar funções e peças. 
